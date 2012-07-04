@@ -1,0 +1,9 @@
+* {margin:0; padding:0; font-size:100%; list-style:none;}
+html 
+{
+	height: 100%; /*permet d'avoir le background sur tout la hauteur*/
+}
+img
+{
+	border: none;
+}

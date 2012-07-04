@@ -1,0 +1,93 @@
+/*[fmt]AA90-1A0B-3*/
+/*MENU*/
+#norm li
+{
+	float: left;
+/*et les voilà alignés*/
+	padding-right: 3px;
+	padding-left: 3px;
+}
+
+#norm li a
+{
+	font-weight: bold;
+	text-decoration: none;
+}
+
+#ut
+{
+	-webkit-border-top-left-radius: 15px;
+	-webkit-border-bottom-left-radius: 15px;
+	-moz-border-radius-topleft: 15px;
+	-moz-border-radius-bottomleft: 15px;
+	border-top-left-radius: 15px;
+	border-bottom-left-radius: 15px;
+}
+
+#ut li
+{
+	float: left;
+}
+
+#ut li a
+{
+	font-weight: bold;
+	text-decoration: none;
+}
+
+#cl
+{
+	-webkit-border-top-left-radius: 15px;
+	-webkit-border-bottom-left-radius: 15px;
+	-moz-border-radius-topleft: 15px;
+	-moz-border-radius-bottomleft: 15px;
+	border-top-left-radius: 15px;
+	border-bottom-left-radius: 15px;
+}
+
+#cl li
+{
+	float: left;
+}
+
+#cl li a
+{
+	font-weight: bold;
+}
+
+/*CENTRE DE PAGE*/
+#content
+{
+	padding: 5px;
+	width: 750px;
+	margin: 0 auto;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+
+/*FOOTER*/
+footer
+{
+	width: 100%;
+	display: block;
+}
+
+#foot1
+{
+	float: left;
+	width: 33.33%;
+}
+
+#foot2
+{
+	float: left;
+	width: 33.33%;
+}
+
+#foot3
+{
+	float: left;
+	width: 33.33%;
+}
+

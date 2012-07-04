@@ -1,0 +1,111 @@
+/*COULEUR DE FOND DE PAGE*/
+body
+{
+	background: #408dd2;
+	background: -moz-linear-gradient(top, #408dd2 0%, #679fd2 100%); 
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#408dd2), color-stop(100%,#679fd2));
+}
+/*COULEUR DE HEADER */
+header
+{
+	background: #ffd500;
+	background: -moz-linear-gradient(top, #ffd500 0%, #ffdf40 100%); 
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffd500), color-stop(100%,#ffdf40));
+}
+header p
+{
+	text-align: center;
+}
+/*IMAGE DE FOND*/
+#fond
+{
+	background: url(img/masse_ballon.png) repeat;
+}
+/*MENU*/
+/*COULEUR DU MENU NORMAL*/
+ul#norm
+{
+	background: #ffdf40;
+	background: -moz-linear-gradient(top, #ffdf40 0%, #ffe873 100%); 
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffdf40), color-stop(100%,#ffe873));
+	overflow:hidden;
+}
+
+#norm li a
+{
+	color: #6C006C;
+}
+
+#norm li a:hover
+{
+	color: #A600A6;
+}
+
+/*COULEUR DU MENU UTILISATEUR*/
+ul#ut
+{
+	background: #26537c;
+	background: -moz-linear-gradient(top, #26537c 0%, #043a6b 100%); 
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#26537c), color-stop(100%,#043a6b));
+	overflow:hidden;
+}
+
+#ut li a
+{
+	color: #FFD500;
+}
+
+#ut li a:hover
+{
+	color: #FFE873;
+}
+
+/*COULEUR DU MENU CLIENT*/
+ul#cl
+{
+	background: #7c1f7c;
+	background: -moz-linear-gradient(top, #7c1f7c 0%, #6c006c 100%); 
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#7c1f7c), color-stop(100%,#6c006c));
+	overflow:hidden;
+}
+
+#cl li a
+{
+	color: #408DD2;
+}
+
+#cl li a:hover
+{
+	color: #679FD2;
+}
+
+/*CENTRE DE PAGE*/
+#content
+{
+	background: white;
+}
+/*FOOTER*/
+/*COULEUR DU FOOTER 1*/
+#foot1
+{
+	background: #ffdf40;
+	background: -moz-linear-gradient(top, #ffdf40 0%, #ffe873 100%); 
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffdf40), color-stop(100%,#ffe873));
+	color: #6C006C;
+}
+/*COULEUR DU FOOTER 2*/
+#foot2
+{
+	background: #26537c;
+	background: -moz-linear-gradient(top, #26537c 0%, #043a6b 100%); 
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#26537c), color-stop(100%,#043a6b));
+	color: #FFD500;
+}
+/*COULEUR DU FOOTER 3*/
+#foot3
+{
+	background: #7c1f7c;
+	background: -moz-linear-gradient(top, #7c1f7c 0%, #6c006c 100%); 
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#7c1f7c), color-stop(100%,#6c006c));
+	color: #679FD2;
+}
