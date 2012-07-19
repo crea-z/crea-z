@@ -3,7 +3,7 @@
 #norm li
 {
 	float: left;
-/*et les voil√† align√©s*/
+/*et les voil‡† alignÈs*/
 	padding-right: 3px;
 	padding-left: 3px;
 }
@@ -76,18 +76,27 @@ footer
 #foot1
 {
 	float: left;
-	width: 33.33%;
+	width: 32.83%;
+	padding-left: 10px;
+	padding-top: 7px;
+	padding-bottom: 5px;
 }
 
 #foot2
 {
 	float: left;
-	width: 33.33%;
+	width: 32.83%;
+	padding-left: 10px;
+	padding-top: 7px;
+	padding-bottom: 5px;
 }
 
 #foot3
 {
 	float: left;
-	width: 33.33%;
+	width: 32.83%;
+	padding-left: 10px;
+	padding-top: 7px;
+	padding-bottom: 5px;
 }
 

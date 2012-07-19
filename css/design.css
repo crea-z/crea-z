@@ -11,6 +11,9 @@ header
 	background: #ffd500;
 	background: -moz-linear-gradient(top, #ffd500 0%, #ffdf40 100%); 
 	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffd500), color-stop(100%,#ffdf40));
+	display: block;
+	top: 0;
+	left: 0;
 }
 header p
 {

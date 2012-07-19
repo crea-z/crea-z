@@ -5,7 +5,7 @@
 	<title>
 		<?php if(!isset($titre)) 
 		{ ?> 
-			CréA-Z - Nous développons tout de A Ã  Z.
+			CréA-Z - Nous développons pour vous de A à  Z.
 		<?php } 
 		else 
 		{
@@ -19,6 +19,6 @@
 <body>
 <section id="wrap">
     <header>
-   	 <p><img src="css/img/titre.png" alt="Titre CréA-Z" /></p>
+		<p><img src="css/img/titre.png" alt="Titre CréA-Z" /></p>
     </header>
     <section id="fond">
