@@ -87,6 +87,64 @@ ul#cl
 {
 	background: white;
 }
+
+/*FORUM*/
+#banniere
+{
+	background-image: url('images/banniere.jpg');
+}
+
+#corps_forum
+{
+	background-color: rgb(237,224,213);
+	border: 1px solid black;
+}
+
+#corps_forum td 
+{ 
+	border: 1px solid black; 
+	background-color: rgb(253,244,223); 
+}
+
+#corps_forum table 
+{ 
+	background-color: rgb(237,224,213); 
+	border: 1px solid black; 
+}
+
+#corps_forum th 
+{ 
+	background-color: rgb(243,250,223); 
+	border: 1px solid black; 
+}
+
+.categorie 
+{ 
+	background-color : rgb(244,238,250); 
+}
+
+.vt_auteur
+{
+	background-color : rgb(244,238,250);
+}
+
+.vt_mess
+{
+	background-color : rgb(244,238,250);
+}
+
+#footer
+{
+	border: 1px solid black;
+	background-color: rgb(237,224,213);
+}
+
+#quote
+{
+	background-color : rgb(220,220,220);
+	font-family: "Comic sans MS", Arial, Verdana, serif;
+}
+
 /*FOOTER*/
 /*COULEUR DU FOOTER 1*/
 #foot1

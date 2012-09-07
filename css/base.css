@@ -3,7 +3,7 @@
 #norm li
 {
 	float: left;
-/*et les voilà  alignés*/
+/*et les voilÃ Â  alignÃ©s*/
 	padding-right: 3px;
 	padding-left: 3px;
 }
@@ -64,6 +64,123 @@
 	-webkit-border-radius: 5px;
 	-moz-border-radius: 5px;
 	border-radius: 5px;
+}
+#alert
+{
+	display: none;
+}
+.center
+{
+	text-align: center;
+}
+
+/*FORUM*/
+
+#banniere
+{
+	width: 600px;
+	height: 150px;
+	background-position:  center;
+	margin-bottom: 20px; 
+}
+
+#corps_forum
+{
+	width: 90%;
+	margin-top: 50px;
+	margin-left: 5%;
+	margin-bottom: 10Opx;
+	padding: 5px;
+}
+
+.ico 
+{
+	width:2%
+}
+
+.titre 
+{ 
+	width:61%; 
+}
+
+.nombremessages 
+{ 
+	width:2%; 
+}
+
+.nombrevu 
+{ 
+	width:4%; 
+}
+
+.nombresujets 
+{ 
+	width:2%; 
+}
+
+.auteur 
+{
+	width:7%; 
+}
+
+.derniermessage 
+{ 
+	width:18%; 
+}
+
+.categorie 
+{ 
+	width:92%; 
+}
+
+.vt_auteur
+{
+	width:20%;
+}
+.vt_mess
+{
+	width:75%;
+}
+
+#corps_forum td 
+{ 
+	vertical-align:top; 
+}
+
+#page_co label
+{
+	display:block;
+	width:150px;
+	float:left;
+}
+
+#footer
+{
+	width: 90%;
+	margin-top: 50px;
+	margin-left: 5%;
+	margin-bottom: 10Opx;
+	padding: 5px;
+}
+
+#quote
+{
+	width: 100%;
+	margin-top: 2px;
+	margin-bottom: 2px;
+}
+
+.mp_titre 
+{ 
+	width:65%; 
+}
+.mp_expediteur 
+{ 
+	width:10%; 
+}
+.mp_time 
+{ 
+	width:20%; 
 }
 
 /*FOOTER*/
